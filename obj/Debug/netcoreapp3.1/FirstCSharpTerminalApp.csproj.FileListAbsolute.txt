@@ -1,0 +1,13 @@
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\bin\Debug\netcoreapp3.1\FirstCSharpTerminalApp.exe
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\bin\Debug\netcoreapp3.1\FirstCSharpTerminalApp.deps.json
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\bin\Debug\netcoreapp3.1\FirstCSharpTerminalApp.runtimeconfig.json
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\bin\Debug\netcoreapp3.1\FirstCSharpTerminalApp.runtimeconfig.dev.json
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\bin\Debug\netcoreapp3.1\FirstCSharpTerminalApp.dll
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\bin\Debug\netcoreapp3.1\FirstCSharpTerminalApp.pdb
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.csprojAssemblyReference.cache
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.AssemblyInfoInputs.cache
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.AssemblyInfo.cs
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.csproj.CoreCompileInputs.cache
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.dll
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.pdb
+C:\Users\humph\OneDrive\Desktop\Repos\FirstCSharpTerminalApp\obj\Debug\netcoreapp3.1\FirstCSharpTerminalApp.genruntimeconfig.cache
