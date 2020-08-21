@@ -10,6 +10,16 @@ namespace FirstCSharpTerminalApp
             Console.WriteLine("Additional Work");
             Console.WriteLine("Line added by test user");
 
+            string teachersName = "Steve";
+
+            string otherPerson = teachersName;
+
+            Console.WriteLine(otherPerson);
+
+            teachersName = "Joseph";
+
+            Console.WriteLine(otherPerson);
+
         }
     }
 }
